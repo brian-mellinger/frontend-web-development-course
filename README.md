@@ -1,4 +1,4 @@
-**You can view the front page here:** [https://bmelling-stack.github.io/](url)  note: This webpage will be active until mid 2028.
+**You can view the front page here:** https://bmelling-stack.github.io/  note: This webpage will be active until mid 2028.
 
 This project was created for ITIS 3135: Front End Web Application Development at UNC Charlotte and show cases my ability to use HTML, CSS, and Javascript. I completed this course with an A+ (107%/100%). 
 
