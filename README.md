@@ -1,11 +1,9 @@
 **You can view the front page here:** https://bmelling-stack.github.io/  note: This webpage will be active until mid 2028.
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The most important work I created was creating a real website for a client, a PhD Student who needed a website to showcase themselves. Here is my version of the website: https://bmelling-stack.github.io/itis3135/projects/project-site/index.html
 
 Website planning outline: https://bmelling-stack.github.io/itis3135/projects/project_overview.html
-
-
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This project was created for ITIS 3135: Front End Web Application Development at UNC Charlotte and show cases my ability to use HTML, CSS, and Javascript. I completed this course with an A+ (107%/100%).
 
